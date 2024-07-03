@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App de Pizzaria1</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="registro">Registro</string>
+</resources>
